@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lagon des Nombres</string>
+    <string name="title_activity_main">Lagon des Nombres</string>
+    <string name="package_name">com.lagondesnombres.app</string>
+    <string name="custom_url_scheme">com.lagondesnombres.app</string>
+</resources>
